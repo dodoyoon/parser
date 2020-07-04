@@ -1,0 +1,30 @@
+class|keyword
+Example|identifier
+{|left curly brace
+main|keyword
+(|left parenthesis
+)|right parenthesis
+{|left curly brace
+for|keyword
+(|left parenthesis
+int|keyword
+_i$|identifier
+=|operator symbol
+0|number literal
+;|statement terminator
+;|statement terminator
+_i$|keyword
+=|operator symbol
+i|identifier
++|operator symbol
+2|number literal
+)|right parenthesis
+{|left curly brace
+out.println|keyword
+(|left parenthesis
+_i$|keyword
+)|right parenthesis
+;|statement terminator
+}|right curly brace
+}|right curly brace
+}|right curly brace
